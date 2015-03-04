@@ -1,3 +1,3 @@
 # Writeups
 
-Write-ups for CTFs and more..
+Write-ups for CTFs and more...
